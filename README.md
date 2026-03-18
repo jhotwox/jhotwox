@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **react native, react and node**
 
-- 📫 How to reach me **cristianorozcodev@gmail.com**
-
 - 📄 Know about my experiences [resume/link](resume/link)
 
 - ⚡ Fun fact **I have little-little pinkies**
@@ -28,8 +26,8 @@
   <a href="https://linkedin.com/in/cristian-orozco-orozco-jim%c3%a9nez-446a96310/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristian-orozco-orozco-jim%c3%a9nez-446a96310/" height="30" width="40" />
   </a>
-  <a href="cristianrozcodev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo" />
+  <a href="cristianrozcodev@gmail.com" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail" />
   </a>
   <a href="https://www.leetcode.com/someday" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="someday" height="30" width="40" />
